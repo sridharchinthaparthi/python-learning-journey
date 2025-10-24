@@ -114,7 +114,7 @@ A simulated ATM system with account management and secure transactions.
 
 ---
 
-### 💰 [Personal Finance Tracker](https://github.com/sridharchinthaparthi/personal-finance-tracker)
+### 💰 [Personal Finance Tracker](https://github.com/sridharchinthaparthi/personal-finance-calculator)
 **`Beginner+` `Data Tracking` `Analytics`**
 
 A financial planning tool that tracks income, expenses, and savings goals with detailed analytics.
@@ -290,3 +290,4 @@ A functional calculator with basic and advanced operations.
 [View All Projects](https://github.com/sridharchinthaparthi?tab=repositories) • [Contact Me](mailto:sridhar.chinthaparthi@gmail.com)
 
 </div>
+
